@@ -8,6 +8,8 @@
 
 When you want a fully UISegmentedControl or UISwitch you can use SHSegmentedControl which is written in Swift.
 
+![Demo](https://github.com/gmarm/SHSegmentedControl/blob/master/demo.gif)
+
 ## Features
 
 1) `Uou can customize as much as you can`
