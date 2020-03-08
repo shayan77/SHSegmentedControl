@@ -38,7 +38,7 @@ open class SHSegmentedControl: UIControl {
     
     // MARK: Properties
     // Public
-    /// The selected index.
+    /// The selected index for public access
     public var index: Int
     /// The segments available for selection.
     public var segments: [SHSegmentedControlSegment] {
