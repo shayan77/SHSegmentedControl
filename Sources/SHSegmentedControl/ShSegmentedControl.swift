@@ -39,7 +39,7 @@ open class SHSegmentedControl: UIControl {
     // MARK: Properties
     // Public
     /// The selected index.
-    public private(set) var index: Int
+    public var index: Int
     /// The segments available for selection.
     public var segments: [SHSegmentedControlSegment] {
         didSet {
